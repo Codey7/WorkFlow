@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WorkFlow</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="workflow">工作流</string>
+    <string name="anno">公告</string>
+    <string name="me">我</string>
+    <string name="press_again_backrun">再按一次返回键退出！</string>
+</resources>
